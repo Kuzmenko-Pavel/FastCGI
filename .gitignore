@@ -1,0 +1,117 @@
+# Created by .ignore support plugin (hsz.mobi)
+### C++ template
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+### C template
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+Будет удалено .idea/
+Будет удалено LICENSE.TERMS
+Будет удалено Makefile.am
+Будет удалено Makefile.in
+Будет удалено Makefile.nt
+Будет удалено README
+Будет удалено Win32/
+Будет удалено acinclude.m4
+Будет удалено aclocal.m4
+Будет удалено cgi-fcgi/
+Будет удалено compile
+Будет удалено config.guess
+Будет удалено config.sub
+Будет удалено configure
+Будет удалено configure.in
+Будет удалено depcomp
+Будет удалено doc/
+Будет удалено examples/
+Будет удалено fcgi_config.h
+Будет удалено fcgi_config.h.in
+Будет удалено images/
+Будет удалено include/
+Будет удалено install-sh
+Будет удалено java/
+Будет удалено libfcgi/
+Будет удалено ltmain.sh
+Будет удалено missing
+Будет удалено mkinstalldirs
+Будет удалено perl/
+Будет удалено stamp-h.in
